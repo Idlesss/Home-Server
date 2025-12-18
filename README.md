@@ -1,4 +1,4 @@
-# Panduan Membangun Home Server Mandiri 🚀
+# Membuat Home Server Sendiri 🚀
 
 Repository ini berisi dokumentasi lengkap cara membangun home server menggunakan hardware bekas (Mini PC/STB) untuk keperluan hosting website dan cloud storage pribadi.
 
@@ -10,7 +10,7 @@ Repository ini berisi dokumentasi lengkap cara membangun home server menggunakan
 
 ## 📦 Software Stack
 * **Panel:** HestiaCP
-* **Apps:** Nextcloud, 
+* **Apps:** Nextcloud
 * **Tunneling/DNS:** Cloudflare
 
 ## 1. Persiapan Awal
